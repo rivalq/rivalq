@@ -5,8 +5,7 @@ I am a Competitive Programmer who is fond of Maths. I like learning Complicated 
 
 
 - 🌱 I’m currently learning **Rust**.
-- 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx) 
-- 💬 Ask me about **Competitive Programming**, **C++**,**Spring Boot**, **Vuejs**
+- 💬 Ask me about **Competitive Programming**, **Vuejs**, **Reactjs**, **Web scraping**. 
 - :page_facing_up: Checkout my [Resume](https://drive.google.com/file/d/1QK3c854oLeZw7LXNRNe2cLdVfyZQDHqw/view?usp=sharing)
 - 📫 How to reach me: [jatin.garg.cse19@itbhu.ac.in](mailto:jatin.garg.cse19@itbhu.ac.in)
 
