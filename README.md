@@ -12,3 +12,5 @@ I am a Competitive Programmer who is fond of Maths. I like learning Complicated 
 [![rivalq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivalq&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalq&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rivalq)
